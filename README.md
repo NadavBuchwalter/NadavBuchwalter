@@ -1,6 +1,6 @@
-<!-- Add a colorful header with your name and a welcoming message -->
-<div align="center">
-  <h1>Hi there, I'm Nadav! 👋</h1>
+
+![Header Image](images/header.png)<div align="center">
+
   <p>Welcome to my GitHub profile.</p>
 </div>
 
